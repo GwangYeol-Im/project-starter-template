@@ -1,9 +1,14 @@
 {
   "compilerOptions": {
+    "jsx": "react",
+
     "strict": true,
     "noImplicitAny": true,
     "noImplicitReturns": true,
     "strictNullChecks": true,
-    "baseUrl": "src"
+    "baseUrl": "src",
+
+    "forceConsistentCasingInFileNames": true,
+    "esModuleInterop": true
   }
 }
