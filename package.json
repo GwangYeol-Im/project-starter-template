@@ -5,5 +5,11 @@
   "description": "Boilerplate for start personal project.",
   "repository": "https://github.com/GwangYeol-Im/project-starter-template.git",
   "author": "imgwang-yeol <mkitigy@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.8.0",
+    "@typescript-eslint/parser": "^5.8.0",
+    "eslint": "^8.5.0",
+    "typescript": "^4.5.4"
+  }
 }
